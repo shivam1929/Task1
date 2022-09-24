@@ -1,0 +1,10 @@
+#Footer
+              {
+                bottom: 0px;
+                position: fixed;
+                left: 0px;
+                width: 100%;
+                background-color: black;
+                color: cornsilk;
+                font-family: cursive;
+              }
